@@ -68,3 +68,5 @@ python train.py --arch vgg8_sphereface
 ![arcface](figures/mnist_vgg8_arcface_3d.png)
 ![cosface](figures/mnist_vgg8_cosface_3d.png)
 ![sphereface](figures/mnist_vgg8_sphereface_3d.png)
+
+## Dataset: IJB-testsuite https://drive.google.com/file/d/1aC4zf2Bn0xCVH_ZtEuQipR2JvRb1bf8o/view?usp=sharing
